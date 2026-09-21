@@ -7,3 +7,8 @@ haproxy/
 nginx
 proxy.yaml
 schema.pdf
+.dockerignore
+.env
+.git
+__pycache__
+compose.yaml
